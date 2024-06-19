@@ -1,4 +1,3 @@
-
 ## Objetivos de la Clase
 - Comprender el concepto de integrales impropias.
 - Conocer los diferentes casos de integrales impropias.
