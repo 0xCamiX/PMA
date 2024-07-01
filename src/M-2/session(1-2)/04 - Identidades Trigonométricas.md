@@ -1,5 +1,3 @@
-
-
 ## Objetivos de la Clase
 - Definir qué son las identidades trigonométricas.
 - Conocer las identidades trigonométricas fundamentales.

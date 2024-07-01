@@ -1,4 +1,3 @@
-
 ## Objetivos de la Clase
 - Definir el concepto de límite en matemáticas.
 - Comprender la notación y el significado del límite.

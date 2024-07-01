@@ -1,4 +1,3 @@
-
 ## Objetivos de la Clase
 - Comprender la Ley del Seno y la Ley del Coseno.
 - Aplicar estas leyes para resolver triángulos no rectángulos.
