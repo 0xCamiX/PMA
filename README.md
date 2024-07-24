@@ -16,3 +16,8 @@ mathematics 1 (basic), 2 (differential), 3 (integral). Each level of mathematics
 where you will find reading and information along with solved workshops.
 
 * Images: contains images of the different lectures and workshops.
+
+## Author
+
+Juan Camilo Gallego Riveros
+Ingeniería de Sistemas. 
