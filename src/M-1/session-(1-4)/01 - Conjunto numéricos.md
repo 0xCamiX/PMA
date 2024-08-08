@@ -1,6 +1,4 @@
-(...)
-
-## Tópicos
+## Temas
 
 1. Propiedades de los números reales
 2. Operaciones con los números reales
